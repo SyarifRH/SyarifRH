@@ -26,7 +26,7 @@ Graduated in Informatics, turning into software quality engineer. Having knowled
     <a href="https://www.linkedin.com/in/syarif-ridhohidayatulloh/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
        <a href="https://www.instagram.com/bangsyarif_/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
  <p> 
- ### 🤙 Contact Me 
+ 🤙 Contact Me 
     <p> 
     <a href="mailto: sharif.ridho@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
    <p> 
