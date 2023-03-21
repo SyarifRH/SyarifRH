@@ -14,11 +14,9 @@ Graduated in Informatics, turning into software quality engineer. Having knowled
 ![Python](https://img.shields.io/badge/-python-181717?style=for-the-badge&logo=python)
 ![Selenium](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
-![Rest-Assured](https://img.shields.io/badge/-restassured-000000?style=for-the-badge&logo=restassured)
 ![Jmeter](https://img.shields.io/badge/-jmeter-000000?style=for-the-badge&logo=restassured)
-![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
-![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
+![Cypress.io](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
