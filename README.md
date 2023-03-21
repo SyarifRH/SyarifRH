@@ -31,7 +31,7 @@ Graduated in Informatics, turning into software quality engineer. Having knowled
     <a href="mailto: sharif.ridho@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
    <p> 
 
-![snake gif](https://github.com/SyarifRH/SyarifRH/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 syarifRH/syarifRH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
