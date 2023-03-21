@@ -18,7 +18,7 @@ jobs:
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
     # Generates the snake  
-      - uses: Platane/snk@master
+      - uses: Platane/snk@main
         id: snake-gif
         with:
           # your GitHub username
@@ -30,7 +30,7 @@ jobs:
       - run: git status
       # Push the changes
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
