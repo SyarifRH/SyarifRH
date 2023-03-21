@@ -5,8 +5,8 @@ Graduated in Informatics, turning into software quality engineer. Having knowled
 ### Stats:
 <p align="left">
 <a href="https://github.com/SyarifRH">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-febri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-febri&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syarifRH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syarifRH&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
