@@ -1,10 +1,10 @@
-# Hi there 👋 , I'm Ari Febri Anto!
+# Hi there 👋 , I'm Syarif Ridhohidayatulloh
 
-Graduated in Mechanical Engineering, turning into software quality engineer. Having knowledge to create manual testing, automation testing with Java, API Testing using Postman, Web Automation Testing using Selenium, API Automation Testing with RestAssured, and Android Automation Testing with Appium. I'm currently looking for new opportunity as a QA Engineer.  
+Graduated in Informatics, turning into software quality engineer. Having knowledge to create manual testing, automation testing with Python, API Testing using Postman, Web Automation Testing using Selenium,  API Automation Testing with Postman, and Android Automation Testing with Appium. I'm currently looking for new opportunity as a QA Engineer.  
 
 ### Stats:
 <p align="left">
-<a href="https://github.com/a-febri">
+<a href="https://github.com/SyarifRH">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-febri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-febri&layout=compact&langs_count=8&theme=algolia"/>
 </a>
