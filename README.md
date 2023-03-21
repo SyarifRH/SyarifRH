@@ -18,7 +18,7 @@ Graduated in Informatics, turning into software quality engineer. Having knowled
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![Cypress.io](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Katalon Studio](https://img.shields.io/badge/Katalon-000000.svg?style=for-the-badge&logo=Katalon-idea&logoColor=white)
 
 
 ### 🤙 Reach me !
