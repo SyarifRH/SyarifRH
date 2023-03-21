@@ -11,7 +11,7 @@ Graduated in Informatics, turning into software quality engineer. Having knowled
 </p>
 
 ### 🔨 Tech
-![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/-python-181717?style=for-the-badge&logo=python)
 ![Selenium](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
 ![Rest-Assured](https://img.shields.io/badge/-restassured-000000?style=for-the-badge&logo=restassured)
