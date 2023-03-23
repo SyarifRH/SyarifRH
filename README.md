@@ -1,3 +1,5 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
 # Hi there 👋 , I'm Syarif Ridhohidayatulloh
 
 Graduated in Informatics, turning into software quality engineer. Having knowledge to create manual testing, automation testing with Python, API Testing using Postman, Web Automation Testing using Selenium,  API Automation Testing with Postman, and Android Automation Testing with Appium. I'm currently looking for new opportunity as a QA Engineer.  
@@ -31,7 +33,7 @@ Graduated in Informatics, turning into software quality engineer. Having knowled
     <a href="mailto: sharif.ridho@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
    <p> 
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
 <!---
 syarifRH/syarifRH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
