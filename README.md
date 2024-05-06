@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
 
 # Hi there 👋 , I'm Syarif Ridhohidayatulloh
-Graduated in Informatics, turning into software quality engineer. Having knowledge to create manual testing, automation testing with Python, Front End Automation Testing using Selenium, I'm currently looking for new opportunity as a QA Engineer.  
+Graduated in Informatics, turning into software quality engineer. Having knowledge to create manual testing, automation testing with Python, Front End Automation Testing using Selenium.
 
 ### Stats:
 <p align="left">
