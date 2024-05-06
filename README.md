@@ -14,10 +14,10 @@ Graduated in Informatics, turning into software quality engineer. Having knowled
 ### 🔨 Tech
 ![Python](https://img.shields.io/badge/-python-181717?style=for-the-badge&logo=python)
 ![Selenium](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
-![Robot Framework](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
+![Robot Framework](https://img.shields.io/badge/-robot-181717?style=for-the-badge&logo=appium)
 ![Cypress.io](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Gitlab](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=gitlab&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 ### 🤙 Let's connect! 
