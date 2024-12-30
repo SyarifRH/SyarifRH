@@ -14,11 +14,23 @@ I am a Self-Trained QA Engineer from Indonesia, with 2 years of experience in so
 [![Robot Framework](https://img.shields.io/badge/-Robot_Framework-181717?style=for-the-badge&logo=robot-framework)](https://robotframework.org/)
 ![Cypress.io](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 
+Connect!
+<br>
+
+<p>
+    <a href="https://www.linkedin.com/in/syarif-ridhohidayatulloh/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+    <a href="mailto: sharif.ridho@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+      
+ <p> 
+
 #
 
-<p align="left">
+<p align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyarifRH&theme=tokyonight">
-   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syarifRH&layout=compact&langs_count=8&theme=tokyonight" align="right" style="border: none;">
+</p>
+
+<!-- <p align="center">
+   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syarifRH&layout=compact&langs_count=8&theme=tokyonight" style="border: none;">
 </p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=dracula&border_radius=4.5) -->
@@ -41,14 +53,6 @@ Graduated in Informatics, turning into software quality engineer. Having knowled
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=white)  -->
 
-
-#
-Connect! 
-<p>
-    <a href="https://www.linkedin.com/in/syarif-ridhohidayatulloh/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
-    <a href="mailto: sharif.ridho@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
-      
- <p> 
  <!-- 🤙 Contact Me 
     <p> 
     <a href="mailto: sharif.ridho@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
