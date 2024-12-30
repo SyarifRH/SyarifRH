@@ -1,8 +1,23 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1400" height="500"></p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=F78A13&center=true&random=false&width=1000&height=100&lines=Syarif RH" alt="Typing SVG" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
+# Short Biography
 
+`QA Engineer` `Web Developer`    
+
+I am a Self-Trained QA Engineer from Indonesia, with 2 years of experience in software quality assurance and testing.
+
+
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+#
+
+<p align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devbutlazy&theme=tokyonight">
+</p>
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=dracula&border_radius=4.5) -->
 # Hi there 👋 , I'm Syarif Ridhohidayatulloh
 Graduated in Informatics, turning into software quality engineer. Having knowledge to create manual testing, automation testing with Python, Front End Automation Testing using Selenium.
 
